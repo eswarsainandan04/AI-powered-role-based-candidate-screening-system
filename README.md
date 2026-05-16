@@ -311,11 +311,23 @@ Confirm `POSTGRES_HOST`, `POSTGRES_PORT`, and credentials are correct. Supabase 
 
 ## Screenshots
 
-### Landing Page
-![Landing Page](screenshots/img1.jpg)
+### Login Page
+![Login Page](screenshots/login.png)
+
+### Dashboard Page
+![Dashboard Page](screenshots/dashboard.png)
+
+### History Page
+![History Page](screenshots/session_history.png)
+
+### Resume upload & Role Selection
+![History Page](screenshots/session_history.png)
 
 ### Interview Session
-![Interview Session](screenshots/img2.jpg)
+![Interview Session](screenshots/interview.png)
+
+### Insights Page
+![History Page](screenshots/insights.png)
 
 > Place your screenshots in a `screenshots/` folder at the project root and name them `img1.jpg`, `img2.jpg`, etc.
 
