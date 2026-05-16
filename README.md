@@ -321,7 +321,7 @@ Confirm `POSTGRES_HOST`, `POSTGRES_PORT`, and credentials are correct. Supabase 
 ![History Page](screenshots/session_history.png)
 
 ### Resume upload & Role Selection
-![History Page](screenshots/session_history.png)
+![History Page](screenshots/role_selection.png)
 
 ### Interview Session
 ![Interview Session](screenshots/interview.png)
